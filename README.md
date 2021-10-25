@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Chirag Sharma
+- 👋 Hey, I’m Chirag Sharma,a student ,learner and a reader.
 - I’m interested in Software development,Web development and Algorithms,maths.
 - I’m currently learning Algorithms and Complexities analysis.
 - I’m looking to collaborate on Computer and system design.
