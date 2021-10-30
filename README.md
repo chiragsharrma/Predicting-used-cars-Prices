@@ -2,7 +2,7 @@
 - I’m interested in Software development,Web development and Algorithms,maths.
 - I’m currently learning Algorithms and Complexities analysis.
 - I’m looking to collaborate on Computer and system design.
-- You can reach out to me at  work.chiragsharma01@outlook.com, cs166174@gmail.com.
+- You can reach out to me at work.chiragsharma01@outlook.com, cs166174@gmail.com.
 
 <!---
 chiragsharrma/chiragsharrma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
