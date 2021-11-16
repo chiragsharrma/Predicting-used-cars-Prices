@@ -1,0 +1,5 @@
+https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
+
+this is the link of the dataset which i used names as "vehicles" on kaggle
+#CHIRAG_SHARMA_GGSIPU
