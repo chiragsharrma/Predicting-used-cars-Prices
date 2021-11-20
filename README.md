@@ -1,7 +1,4 @@
-- 👋 Hey, I'm CHIRAG SHARMA, a student, a learner and a coder..
-- I’m interested in Software development,Web development and Algorithms,maths. ,
-- I’m currently learning Algorithms and Complexities analysis....
-- I'm keen to collaborate for topics in computer and system software design..
+- THINKER AND CODER 
 - You can reach out to me at work.chiragsharma01@outlook.com, cs166274@gmail.com .
 
 <!---
