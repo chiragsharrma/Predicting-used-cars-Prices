@@ -1,4 +1,4 @@
-- THINKER AND CODER 
+- THINKER AND CODER. I know many things in general and in Technical. You can have a chat with me.
 - You can reach out to me at work.chiragsharma01@outlook.com, cs166274@gmail.com ..\..
 
 <!---
